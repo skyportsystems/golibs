@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/golibs (fetch)
+origin	git@github.com:skyportsystems/golibs (push)
+upstream	https://github.com/cloudflare/golibs.git (fetch)
+upstream	https://github.com/cloudflare/golibs.git (push)
